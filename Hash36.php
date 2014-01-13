@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Encoding integers in 6-character hashes and decoding
+ * Encoding integer in 6-character hashes and decoding
  * @author vitalko
  * @link https://github.com/vitalko/hash36
  *
