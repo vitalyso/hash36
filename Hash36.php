@@ -2,8 +2,8 @@
 
 /**
  * Encoding integer in 6-character hashes and decoding
- * @author vitalko
- * @link https://github.com/vitalko/hash36
+ * @author sivkoff
+ * @link https://github.com/sivkoff/hash36
  *
  * @link http://toster.ru/q/22087
  */
