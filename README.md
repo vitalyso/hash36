@@ -1,7 +1,7 @@
-Hash36
-======
+# Hash36
+> A simple encoder/decoder of numbers to short strings and back
 
-Hash36 example:
+### Usage
 
 ```php
 $h36 = new Hash36();
